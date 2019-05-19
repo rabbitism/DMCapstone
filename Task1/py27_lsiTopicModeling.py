@@ -29,14 +29,14 @@ def main(K, numfeatures, sample_file, num_display_words, outputfile):
         id2words[i] = word
 
     t0 = time()
-    print("Applying topic modeling, using LDA")
+    print("Applying topic modeling, using LSI")
     print(str(K_clusters) + " topics")
     corpus = matutils.Sparse2Corpus(X,  documents_columns=False)
-    lda = models.ldamodel.LdaModel(corpus, num_topics=K_clusters, id2word=id2words)
+    lsi = models.LsiModel(corpus, num_topics = K_clusters, id2word=id2words)
     print("done in %fs" % (time() - t0))
         
     output_text = []
-    for i, item in enumerate(lda.show_topics(num_topics=K_clusters, num_words=num_display_words, formatted=False)):
+    for i, item in enumerate(lsi.show_topics(num_topics=K_clusters, num_words=num_display_words, formatted=False)):
         print(i)
         print(item)
         output_text.append("Topic: " + str(i))

@@ -37,11 +37,17 @@ def main(K, numfeatures, sample_file, num_display_words, outputfile):
         
     output_text = []
     for i, item in enumerate(lda.show_topics(num_topics=K_clusters, num_words=num_display_words, formatted=False)):
+        print(i)
+        print(item)
         output_text.append("Topic: " + str(i))
+        #weight = item[0]
+        """
         for weight,term in item:
+            output_text.append( term + " : " + str(weight) )"""
+        for term, weight in item[1]:
             output_text.append( term + " : " + str(weight) )
 
-    print "writing topics to file:", outputfile
+    print ("writing topics to file:", outputfile)
     with open ( outputfile, 'w' ) as f:
         f.write('\n'.join(output_text))
         
@@ -70,6 +76,6 @@ if __name__=="__main__":
     if args.logging:
         logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
-    print "using input file:", args.path2datafile
+    print ("using input file:", args.path2datafile)
     main(args.K, args.featureNum, args.path2datafile, args.displayWN, args.outputfile)
     

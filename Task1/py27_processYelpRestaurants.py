@@ -11,7 +11,8 @@ from nltk.tokenize import sent_tokenize
 import glob
 import argparse
 import os
-path2files="yelp_dataset_challenge_academic_dataset/"
+#path2files="yelp_dataset_challenge_academic_dataset/"
+path2files=os.sep.join(['DataSet',''])
 path2buisness=path2files+"yelp_academic_dataset_business.json"
 path2reviews=path2files+"yelp_academic_dataset_review.json"
 
@@ -42,7 +43,7 @@ def main(save_sample, save_categories):
                         else:
                             cat2rid[cat] = [business_json['business_id']]
 
-    print "saving restaurant ratings"
+    print ("saving restaurant ratings")
     with open ( 'restaurantIds2ratings.txt', 'w') as f:
         for key in rest2rate:
             f.write( key + " " + str(rest2rate[key]) + "\n")
@@ -79,7 +80,7 @@ def main(save_sample, save_categories):
 
     #print nz_count, ' non-zero number of reviews in categories out of', len(cat2rid), 'categories')
     #x = range(nz_count)
-    print "sampling categories"
+    print ("sampling categories")
     sample_rid2cat={}
     sample_size = 10 #len(valid_cats) # This specifies how many cuisines you would like to save 
                                   # if this process takes too long you can change it to something smaller like 5, 6 ...
@@ -94,7 +95,7 @@ def main(save_sample, save_categories):
     rest2revID=None
     #    print (len(sample_rid2cat), len(cat2rid), len(valid_cats), len(cat_sample))
     
-    print "reading from reviews file..."
+    print ("reading from reviews file...")
     #ensure categories is a directory
     sample_cat2reviews={}
     sample_cat2ratings={}
@@ -114,14 +115,14 @@ def main(save_sample, save_categories):
                         sample_cat2ratings [ rcat ] = [ str(review_json['stars']) ]
     
     if save_categories:
-        print "saving categories"
+        print ("saving categories")
         #save categories
         for cat in sample_cat2reviews:
-            with open ('categories/' + cat.replace('/', '-').replace(" ", "_") + ".txt" , 'w') as f:
+            with open ('categories/' + cat.replace('/', '-').replace(" ", "_") + ".txt" , 'wb') as f:
                 f.write(u'\n'.join(sample_cat2reviews[cat]).encode('utf-8').strip())
 
     if save_sample:  
-        print "sampling restaurant reviews"
+        print ("sampling restaurant reviews")
         #save sample for restaurant reviews
         sample_size = min(100000, num_reviews)
         rev_sample = random.sample(range(num_reviews), sample_size)
@@ -131,7 +132,7 @@ def main(save_sample, save_categories):
         count = 0
         max_bound = 0
         for cat in sample_cat2reviews:
-            print cat
+            print (cat)
             new_max_bound = max_bound + len(sample_cat2reviews[cat])
             while count < sample_size and sorted_rev_sample[count] < new_max_bound:
                 my_sample_v2.append( sample_cat2reviews[cat][ sorted_rev_sample[count] - max_bound ].replace("\n", " ").strip() )
@@ -142,10 +143,10 @@ def main(save_sample, save_categories):
             #    my_sample.append(rev.replace("\n", " ").strip())
             #count = count + 1
 
-        with open ("review_sample_100000.txt", 'w') as f:
+        with open ("review_sample_100000.txt", 'wb') as f:
             f.write('\n'.join(my_sample_v2).encode('ascii','ignore') )
             
-        with open ("review_ratings_100000.txt", 'w') as f:
+        with open ("review_ratings_100000.txt", 'wb') as f:
             f.write('\n'.join(sample_ratings).encode('ascii','ignore') )
             
 
@@ -159,7 +160,7 @@ def sim_matrix():
     
     
     if not os.path.isdir("categories"):
-        print "you need to generate the cuisines files 'categories' folder first"
+        print ("you need to generate the cuisines files 'categories' folder first")
         return
     
     text = []
@@ -167,7 +168,7 @@ def sim_matrix():
     cat_list = glob.glob ("categories/*")
     cat_size = len(cat_list)
     if cat_size < 1:
-        print "you need to generate the cuisines files 'categories' folder first"
+        print ("you need to generate the cuisines files 'categories' folder first")
         return
     
     sample_size = min(30, cat_size)
@@ -179,16 +180,16 @@ def sim_matrix():
             li =  item.split('/')
             cuisine_name = li[-1]
             c_names.append(cuisine_name[:-4].replace("_"," "))
-            with open ( item ) as f:
+            with open ( item, encoding='utf-8' ) as f:
                 text.append(f.read().replace("\n", " "))
             count = count + 1
         
         if count >= len(cat_sample):
-            print "generating cuisine matrix with:", count, "cuisines"
+            print ("generating cuisine matrix with:", count, "cuisines")
             break
 
     if len(text) < 1:
-        print "the 'categories' folder does not contain any cuisines. Run this program ussing the '--cuisine' option"
+        print ("the 'categories' folder does not contain any cuisines. Run this program ussing the '--cuisine' option")
     t0 = time()
     print("Extracting features from the training dataset using a sparse vectorizer")
     X = vectorizer.fit_transform(text)
@@ -235,7 +236,9 @@ def sim_matrix():
     with open( 'cuisine_sim_matrix.csv', 'w') as f:
         for i_list in cuisine_matrix:
             s = ""
+            #print(i_list)
             my_max = max(i_list)
+            my_max = 1 if my_max==0 else my_max
             for tt in i_list:
                 s = s+str(tt/my_max) + " "
             s = s.strip()
@@ -260,16 +263,16 @@ if __name__=="__main__":
     
     args = parser.parse_args()        
     if args.all or (args.sample and args.cuisine):
-        print "saving sample and cuisine"
+        print ("saving sample and cuisine")
         main(True,True)
     elif args.sample:
-        print "generating sample"
+        print ("generating sample")
         main(args.sample, args.cuisine)
     elif args.cuisine:
-        print "generating cuisine"
+        print ("generating cuisine")
         main(args.sample, args.cuisine)
 
     if args.matrix or args.all:
-        print "generating cuisine matrix"
+        print ("generating cuisine matrix")
         sim_matrix()
     #main()

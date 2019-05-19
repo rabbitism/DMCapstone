@@ -1,0 +1,30 @@
+categories\Amusement Parks
+categories\Arabian
+categories\Argentine
+categories\Asian Fusion
+categories\Bubble Tea
+categories\Buffets
+categories\Caribbean
+categories\Diners
+categories\Filipino
+categories\Fondue
+categories\Ice Cream & Frozen Yogurt
+categories\Internet Cafes
+categories\Italian
+categories\Karaoke
+categories\Malaysian
+categories\Mediterranean
+categories\Pakistani
+categories\Persian-Iranian
+categories\Personal Shopping
+categories\Polish
+categories\Pretzels
+categories\Ramen
+categories\Salvadoran
+categories\Shanghainese
+categories\Shopping
+categories\Soul Food
+categories\Tea Rooms
+categories\Tex-Mex
+categories\Tours
+categories\Vegetarian

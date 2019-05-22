@@ -82,7 +82,7 @@ def main(save_sample, save_categories):
     #x = range(nz_count)
     print ("sampling categories")
     sample_rid2cat={}
-    sample_size = 10 #len(valid_cats) # This specifies how many cuisines you would like to save 
+    sample_size = 30 #len(valid_cats) # This specifies how many cuisines you would like to save 
                                   # if this process takes too long you can change it to something smaller like 5, 6 ...
     cat_sample = random.sample(valid_cats, sample_size)
     for cat in cat_sample:

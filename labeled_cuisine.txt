@@ -2,29 +2,29 @@ categories\Adult Entertainment
 categories\Amusement Parks
 categories\Arabian
 categories\Brazilian
+categories\Cuban
+categories\Fondue
+categories\German
+categories\Malaysian
+categories\Mongolian
+categories\Pakistani
+categories\Ramen
+categories\Street Vendors
+categories\Turkish
+categories\Seafood
 categories\Breakfast & Brunch
 categories\Casinos
 categories\Cheesesteaks
 categories\Cinema
 categories\Comfort Food
 categories\Convenience Stores
-categories\Cuban
 categories\Event Planning & Services
-categories\Fondue
 categories\Food Delivery Services
-categories\German
 categories\Ice Cream & Frozen Yogurt
 categories\Internet Cafes
 categories\Italian
 categories\Latin American
-categories\Malaysian
-categories\Mongolian
-categories\Pakistani
 categories\Pubs
-categories\Ramen
-categories\Seafood
-categories\Street Vendors
 categories\Tex-Mex
 categories\Thai
 categories\Tours
-categories\Turkish

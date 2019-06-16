@@ -268,23 +268,17 @@ def sim_matrix():
             f.write(",".join(s.split())+"\n") #should the list be converted to m
 
     #print(cuisine_matrix)
-    kmeans_model = KMeans(n_clusters=3, random_state=1).fit(X)
+    kmeans_model = KMeans(n_clusters=5, random_state=1).fit(X)
     labels = kmeans_model.labels_
     #print(labels)
     labeled_topics = []
     labeled_cuisines = []
-    for i, doc_a in enumerate(doc_topics):
-        if(labels[i]==0):
-            labeled_topics.append(doc_a)
-            labeled_cuisines.append(c_names[i])
-    for i, doc_a in enumerate(doc_topics):
-        if(labels[i]==1):
-            labeled_topics.append(doc_a)
-            labeled_cuisines.append(c_names[i])
-    for i, doc_a in enumerate(doc_topics):
-        if(labels[i]==2):
-            labeled_topics.append(doc_a)
-            labeled_cuisines.append(c_names[i])
+    for k in range(5):
+
+        for i, doc_a in enumerate(doc_topics):
+            if(labels[i]==k):
+                labeled_topics.append(doc_a)
+                labeled_cuisines.append(c_names[i])
 
     clustered_matrix = []
     for doc_a in labeled_topics:

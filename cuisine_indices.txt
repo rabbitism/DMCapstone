@@ -1,30 +1,30 @@
-categories\Adult Entertainment
-categories\Amusement Parks
-categories\Arabian
+categories\Argentine
 categories\Brazilian
-categories\Breakfast & Brunch
+categories\Breweries
+categories\British
+categories\Bubble Tea
 categories\Casinos
-categories\Cheesesteaks
-categories\Cinema
 categories\Comfort Food
-categories\Convenience Stores
-categories\Cuban
-categories\Event Planning & Services
-categories\Fondue
-categories\Food Delivery Services
-categories\German
+categories\Diners
+categories\Fruits & Veggies
 categories\Ice Cream & Frozen Yogurt
 categories\Internet Cafes
 categories\Italian
-categories\Latin American
+categories\Live-Raw Food
 categories\Malaysian
-categories\Mongolian
-categories\Pakistani
+categories\Mediterranean
+categories\Persian-Iranian
 categories\Pubs
-categories\Ramen
+categories\Salvadoran
 categories\Seafood
+categories\Shanghainese
+categories\Shopping
+categories\Soul Food
 categories\Street Vendors
-categories\Tex-Mex
+categories\Sushi Bars
+categories\Tapas Bars
+categories\Tea Rooms
 categories\Thai
-categories\Tours
-categories\Turkish
+categories\Vegetarian
+categories\Venues & Event Spaces
+categories\Vietnamese

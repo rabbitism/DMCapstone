@@ -1,0 +1,999 @@
+restaurant_name,amount,count,average
+Chang Jiang Chinese Kitchen,12,3,4.0
+Main Moon Chinese Restaurant,25,7,3.5714285714285716
+China Wok Buffet,26,10,2.6
+Chin's Asia Fresh,70,24,2.9166666666666665
+Grand China Restaurant,15,5,3.0
+Panda Garden,28,7,4.0
+Chang Jiang,25,8,3.125
+Peking Chinese Restaurant,24,7,3.4285714285714284
+Flaming Wok,72,19,3.789473684210526
+China Wok,62,17,3.6470588235294117
+Chang Jiang,8,4,2.0
+Wong's Garden,58,16,3.625
+Imperial Garden Chinese Restaurant,93,28,3.3214285714285716
+China Inn,27,9,3.0
+Taste of China,9,3,3.0
+Noodles & Company,18,7,2.5714285714285716
+Fate 905,244,82,2.975609756097561
+Gourmet House of Hong Kong,255,73,3.493150684931507
+COFCO Chinese Culture Center,139,37,3.7567567567567566
+Lao Ching Hing,144,44,3.272727272727273
+Szechwan Palace,437,122,3.581967213114754
+Canton Wong,29,11,2.6363636363636362
+China Chili,773,204,3.7892156862745097
+Crown China Super Buffet,56,20,2.8
+Imperial Garden Chinese Buffett,9,3,3.0
+Long Wong's Restaurant,142,47,3.021276595744681
+Hong Kong Restaurant,83,25,3.32
+China Village,160,40,4.0
+Panda Express,18,9,2.0
+Desert Jade,367,95,3.863157894736842
+Golden Coin,26,12,2.1666666666666665
+Pei Wei Asian Diner,186,55,3.381818181818182
+Little Shanghai,128,37,3.4594594594594597
+Panda Express,29,8,3.625
+Pei Wei Asian Diner,33,11,3.0
+Super Dragon,191,51,3.7450980392156863
+China Super Buffet,11,4,2.75
+Bamboo China Restaurant,73,21,3.4761904761904763
+Flamingo Palace,328,90,3.6444444444444444
+Pick Up Stix,7,3,2.3333333333333335
+Bamboo House,226,60,3.7666666666666666
+North China Restaurant,68,20,3.4
+Panda Express,19,5,3.8
+Dragon Bowl,80,25,3.2
+Panda Express,20,7,2.857142857142857
+Little Peking,107,28,3.8214285714285716
+Pick Up Stix,17,5,3.4
+A A Wok,17,5,3.4
+Golden Wok Chinese Restaurant,90,27,3.3333333333333335
+Go Go China,44,24,1.8333333333333333
+Golden Bowl Chinese Food,22,7,3.142857142857143
+Lim's Chinese Buffet,72,21,3.4285714285714284
+Dragon Palace,303,79,3.8354430379746836
+Yunan Wok,21,13,1.6153846153846154
+Wang Express,100,30,3.3333333333333335
+Wong's Chinese Dining,134,31,4.32258064516129
+New Sun Star Super Buffet,17,7,2.4285714285714284
+Tam's,81,20,4.05
+Wongs To Go,12,3,4.0
+Canton Wong #8,87,24,3.625
+China Restaurant,84,22,3.8181818181818183
+Abacus Inn Chinese Restaurant,42,13,3.230769230769231
+Panda Garden,147,38,3.8684210526315788
+Beijing Beijing,13,6,2.1666666666666665
+Mr Chao's Asian Bistro,133,35,3.8
+Hong Kong Gourmet Buffet,307,84,3.6547619047619047
+Panda Express,30,8,3.75
+Shanghai Club,183,50,3.66
+Teriyaki Kitchen,115,28,4.107142857142857
+Best Hong Kong Dining,189,53,3.5660377358490565
+Szechuan Express,81,24,3.375
+Golden Canyon Oriental,61,17,3.588235294117647
+Golden Gate Chinese Restaurant,323,77,4.194805194805195
+New China Buffet,19,11,1.7272727272727273
+Yoko Fast Food,105,28,3.75
+Big Bowl Restaurant,14,4,3.5
+China Panda Buffet,10,4,2.5
+Chens Chinese Restaurant,101,30,3.3666666666666667
+Golden China,25,9,2.7777777777777777
+Big Wa Chinese Restaurant,101,28,3.607142857142857
+Lucky Sushi & Chinese Restaurant,87,25,3.48
+China King,12,4,3.0
+Red Dragon Chinese Food,155,45,3.4444444444444446
+Chinese Gourmet Buffet,49,16,3.0625
+China Way Restaurant,145,38,3.8157894736842106
+Yangtse Chinese Bistro,119,34,3.5
+C-Fu Gourmet Restaurant,334,99,3.3737373737373737
+Cyclo Vietnamese Cuisine,486,132,3.6818181818181817
+Pick Up Stix,11,4,2.75
+P F Chang's China Bistro,218,62,3.5161290322580645
+Pei Wei Asian Diner,199,53,3.7547169811320753
+Queen's Bowl Chinese Food,26,6,4.333333333333333
+Wokee Express,45,12,3.75
+China Pearl Chinese Restaurant,85,22,3.8636363636363638
+Asian Grill,117,27,4.333333333333333
+China Lite,102,29,3.5172413793103448
+House of Yang,133,38,3.5
+Chop and Wok Gourmet Chinese,185,54,3.425925925925926
+Flo's,485,138,3.5144927536231885
+Qwik Chinese,184,50,3.68
+Joyful Chinese Dining,108,28,3.857142857142857
+Pei Wei Asian Diner,53,15,3.533333333333333
+Sesame Inn Carefree,146,41,3.5609756097560976
+Chen's Garden,61,17,3.588235294117647
+Pei Wei Asian Diner,21,7,3.0
+Ha Ha China,18,5,3.6
+Pong Pong Restaurant,112,35,3.2
+Hunan Express Chinese Delivery,139,45,3.088888888888889
+Golden Egg Roll,141,42,3.357142857142857
+Rice King Restaurant,19,10,1.9
+China Farm Chinese Buffet,32,11,2.909090909090909
+Asian Hong Kong,95,27,3.5185185185185186
+The Magic Wok,10,3,3.3333333333333335
+Panda Express,10,5,2.0
+Taste of China,87,28,3.107142857142857
+Yao Fine Chinese Cuisine,185,44,4.204545454545454
+Grand Dragon,62,17,3.6470588235294117
+Chung Ming Restaurant,22,6,3.6666666666666665
+China Rainbow,36,10,3.6
+Golden Rice Express,59,17,3.4705882352941178
+Golden Dragon,74,22,3.3636363636363638
+Great Wall Buffet,35,11,3.1818181818181817
+Abacus Inn Chinese Restaurant-Arrowhead,192,58,3.310344827586207
+Panda Express,24,6,4.0
+Pick Up Stix,10,4,2.5
+Pei Wei Asian Diner,158,45,3.511111111111111
+Bamboo Cafe,114,29,3.9310344827586206
+Panda Express,31,10,3.1
+China 7 Chinese Cuisine,37,12,3.0833333333333335
+Sizzling Wok,23,6,3.8333333333333335
+China A Go Go,114,32,3.5625
+Wok In Express,30,8,3.75
+Little Dumpling,161,52,3.0961538461538463
+Bangkok Orchid,216,61,3.540983606557377
+Cook On Wok,54,19,2.8421052631578947
+Pei Wei Asian Diner,193,58,3.3275862068965516
+Bangkok 9 Thai-Chinese Food,321,90,3.566666666666667
+Chai Tip's Thai and Chinese,35,10,3.5
+Grand China,13,4,3.25
+China A Go Go,76,22,3.4545454545454546
+Pick Up Stix,26,6,4.333333333333333
+King & I,18,5,3.6
+Panda Express,9,3,3.0
+Cafe Noodle & Chinese Barbeque,420,125,3.36
+Pho Kim Long,4158,1196,3.4765886287625416
+Sesame House,17,4,4.25
+China Joe's,18,6,3.0
+Rice To-Go,9,4,2.25
+Chinatown Express Restaurant,26,8,3.25
+Sam Woo BBQ Restaurant,491,252,1.9484126984126984
+Panda Express,26,7,3.7142857142857144
+Food Express Chinese Restaurant,463,112,4.133928571428571
+China Star,52,21,2.4761904761904763
+Diamond China Restaurant,112,33,3.393939393939394
+Chopstix Express,50,19,2.6315789473684212
+Emperor's Garden,144,75,1.92
+Joyful House Chinese Cuisine,932,241,3.867219917012448
+Ocha Cuisine,368,95,3.873684210526316
+China Pantry,10,6,1.6666666666666667
+Pat's Chinese Food and Minimart,5,2,2.5
+Buffet @ Asia,371,115,3.226086956521739
+Pick Up Stix,15,5,3.0
+China Joe's,24,9,2.6666666666666665
+Fair View Chinese Cuisine,19,6,3.1666666666666665
+Panda Express,24,8,3.0
+China Olive,20,11,1.8181818181818181
+Cheng's Express,60,22,2.727272727272727
+Panda Express,30,9,3.3333333333333335
+Golden Flower Chinese Cuisine,333,81,4.111111111111111
+Mr. Chop Chop,178,49,3.63265306122449
+Amlee Chinese Cuisine,126,35,3.6
+Panda Express,10,3,3.3333333333333335
+Panda Express,11,4,2.75
+Diamond China 2,72,21,3.4285714285714284
+Great China,52,15,3.466666666666667
+Grand China Fine Chinese Cuisine,23,9,2.5555555555555554
+Panda Express,20,7,2.857142857142857
+KJ Kitchen,694,184,3.7717391304347827
+Buffet Asia,384,129,2.9767441860465116
+Cathay House Restaurant,623,197,3.1624365482233503
+Panda Express,32,9,3.5555555555555554
+Panda Express,15,4,3.75
+Mandarin Express,52,14,3.7142857142857144
+Dragon City,35,12,2.9166666666666665
+China Wok Chinese Restaurant,33,10,3.3
+Wah Kee Wonton Noodle,275,74,3.7162162162162162
+Chin's Asia Fresh,41,15,2.7333333333333334
+Hong Kong Wok,79,21,3.761904761904762
+Yen Ching Restaurant,35,9,3.888888888888889
+Chang Jiang Restaurant,24,6,4.0
+Chang Jiang,33,11,3.0
+Happy Wok,23,6,3.8333333333333335
+Hong Kong Cafe,77,24,3.2083333333333335
+Jade Garden,49,16,3.0625
+Nam's Noodle & Karaoke Bar,95,32,2.96875
+Noodles & Company,44,14,3.142857142857143
+Hong Kong Cafe West,13,3,4.333333333333333
+Asia Express,29,9,3.2222222222222223
+Chang Jiang Chinese Restaurant,24,9,2.6666666666666665
+Happy Wok,14,4,3.5
+China One West,25,10,2.5
+Sing High Chop Suey House,170,60,2.8333333333333335
+Liyuen,27,6,4.5
+Garden Express,9,3,3.0
+Golden Moon Palace Restaurant,25,8,3.125
+Hong Kong Express Chinese Food,9,3,3.0
+Diamond's Chinese Restaurant,167,52,3.2115384615384617
+The Prime Chinese Restaurant,240,58,4.137931034482759
+South China Buffet,20,9,2.2222222222222223
+Maxim Restaurant,426,107,3.9813084112149535
+Kwan & Wok Chinese Restaurant,44,17,2.588235294117647
+Yin's Chinese Resturant,46,12,3.8333333333333335
+Canton Wong #2,7,3,2.3333333333333335
+Shanghai Express,18,6,3.0
+Great Wall Cuisine,586,154,3.8051948051948052
+Panda Gourmet,18,5,3.6
+Chen Wok Express,64,20,3.2
+Golden Panda,24,6,4.0
+China Garden Restaurant,61,18,3.388888888888889
+Oriental Express,66,23,2.869565217391304
+Bamboo Grille,98,32,3.0625
+Panda Express,19,7,2.7142857142857144
+Pink Lotus Express,58,19,3.0526315789473686
+Mister Wong,78,20,3.9
+Ming's Pagoda,89,26,3.423076923076923
+Great Wall Buffet,50,20,2.5
+China Harvest Buffet,61,20,3.05
+Shangri-La Chinese,143,36,3.9722222222222223
+Little Dragon Chinese Restaurant,54,13,4.153846153846154
+May Garden Restaurant,44,13,3.3846153846153846
+Golden Nugget Chinese Buffet,9,3,3.0
+Chinese Gourmet Buffet,23,8,2.875
+Canton Dragon,50,12,4.166666666666667
+China Buffet 2000,6,4,1.5
+Panda Express,9,3,3.0
+Lim's Chinese Restaurant,61,14,4.357142857142857
+Good China Restaurant,98,24,4.083333333333333
+Happy Food,37,9,4.111111111111111
+Rice To You,52,14,3.7142857142857144
+Star Wok,19,5,3.8
+Wong's Restaurant,178,45,3.9555555555555557
+Marcia's Long Wongs,31,9,3.4444444444444446
+Great Wall Buffet Two Corporation,36,12,3.0
+Chen & Wok,85,24,3.5416666666666665
+Pong Pong,77,25,3.08
+Abacus Inn,155,40,3.875
+New Asian Kitchen,193,49,3.938775510204082
+China China Restaurant,110,28,3.9285714285714284
+Kwan's Sampan,69,24,2.875
+China Palace,71,23,3.0869565217391304
+Tao Yuan Chinese Restaurant,34,11,3.090909090909091
+Panda Express,15,8,1.875
+House of Egg Roll,44,19,2.3157894736842106
+Long Wongs,31,11,2.8181818181818183
+Panda Express,6,3,2.0
+Panda Express,19,6,3.1666666666666665
+P F Chang's China Bistro,298,88,3.3863636363636362
+Pei Wei Asian Diner,165,49,3.36734693877551
+Pei Wei Asian Diner,118,32,3.6875
+Jade Palace,272,68,4.0
+China Wok,279,82,3.402439024390244
+New China Gate,196,56,3.5
+George & Son's Asian Cuisine,413,108,3.824074074074074
+Mr Hunan,122,44,2.772727272727273
+Little Szechuan,92,31,2.967741935483871
+Gourmet Wok,55,15,3.6666666666666665
+Panda Express,21,7,3.0
+Chopstick Express,201,65,3.0923076923076924
+Lychee Inn,83,21,3.9523809523809526
+Wong's Place,305,80,3.8125
+China Town Buffet,107,40,2.675
+Tott's Asian Diner,863,209,4.1291866028708135
+Chinatown Restaurant,28,11,2.5454545454545454
+Panda Express,27,7,3.857142857142857
+Him's Jl Buffet,21,6,3.5
+Hing Loon Chinese Ex,22,8,2.75
+King Wah Express,88,22,4.0
+Ming-Gee Chinese Food Restaurant,85,24,3.5416666666666665
+Canton Wong,15,6,2.5
+Panda Express,16,4,4.0
+Dragon Garden Express,15,6,2.5
+Bamboo Palace Buffet,6,3,2.0
+Big Heng,254,60,4.233333333333333
+Panda Express,11,3,3.6666666666666665
+China Place,43,14,3.0714285714285716
+Bobo China,45,13,3.4615384615384617
+Good China Restaurant,47,12,3.9166666666666665
+King Buffet,44,16,2.75
+Golden Star Chinese Food Restaurant,11,5,2.2
+Nan Jing,69,24,2.875
+China Joy,28,10,2.8
+Wing Hing,66,16,4.125
+Chen & Wok,66,17,3.8823529411764706
+Panda Express,9,5,1.8
+Sam-Pan Chinese Restaurant,12,3,4.0
+China Inn,32,12,2.6666666666666665
+China Joe's,33,11,3.0
+The Lotus,102,29,3.5172413793103448
+Jasmine Express,322,100,3.22
+Cook On Wok Chinese Cuisine,21,9,2.3333333333333335
+Red Shrimp Company,90,30,3.0
+Kung Fu Thai & Chinese Restaurant,736,204,3.607843137254902
+Golden Dragon Chinese Cuisine,118,37,3.189189189189189
+Chang's Hong Kong Cuisine,1030,289,3.56401384083045
+Koji Restaurant,176,52,3.3846153846153846
+Panda Express,45,16,2.8125
+Panda Express,17,4,4.25
+Little Buddha Restaurant & Sushi Bar,595,165,3.606060606060606
+Chinese Village Restaurant & Lounge,23,11,2.090909090909091
+Chinois,72,30,2.4
+Dragon Noodle Co.,355,128,2.7734375
+China Star,48,23,2.0869565217391304
+Manchu Wok,14,9,1.5555555555555556
+Chin Chin Chinese Restaurant,520,172,3.0232558139534884
+P F Chang's China Bistro,350,105,3.3333333333333335
+Diamond Chinese Restaurant,167,43,3.883720930232558
+Chop Chop Wok,306,74,4.135135135135135
+Pumi Chinese Restaurant,15,4,3.75
+Great Wall Chinese Restaurant,55,14,3.9285714285714284
+Pearl Wok To Go,77,21,3.6666666666666665
+Panda Express,21,7,3.0
+China Joe's,46,17,2.7058823529411766
+Panda Express,23,8,2.875
+Panda Express,13,4,3.25
+New China Buffet,21,14,1.5
+Wo Fat,293,81,3.617283950617284
+Panda Express,12,3,4.0
+Beijing Chinese Cuisine,155,39,3.9743589743589745
+Thai House Restaurant,592,166,3.566265060240964
+Little Dumpling,46,13,3.5384615384615383
+Chopstix,186,52,3.576923076923077
+Panda Express,30,10,3.0
+Cook On Wok,108,35,3.085714285714286
+Grand China III,59,23,2.5652173913043477
+Ho Ho Ho Chinese Gourmet,74,32,2.3125
+Gourmet Wok,53,17,3.1176470588235294
+P F Chang's China Bistro,388,111,3.4954954954954953
+Chow Mein Express,50,16,3.125
+Little Dumpling,67,21,3.1904761904761907
+Golden Phoenix Chinese Restaurant,151,46,3.282608695652174
+Tao Garden,209,55,3.8
+Bamboo Club,379,121,3.1322314049586777
+Pei Wei Asian Diner,110,32,3.4375
+Jasmine,534,146,3.6575342465753424
+Tsunami Asian Grill & Sushi Bar,24,5,4.8
+Chino Bandido,2451,612,4.004901960784314
+China Grill,8,3,2.6666666666666665
+Fusia,52,16,3.25
+Jade Palace,417,113,3.690265486725664
+Golden Buddha,395,127,3.1102362204724407
+Taiwan Express,29,8,3.625
+Red 8,959,287,3.341463414634146
+Mu Shu Asian Grill,268,62,4.32258064516129
+Noodle Asia,1599,463,3.4535637149028076
+Victorian Cafe,412,135,3.051851851851852
+China King,538,144,3.736111111111111
+Noodles,1421,437,3.251716247139588
+Buffet Orient,6,2,3.0
+Orchids Garden Chinese Restaurant,1318,376,3.50531914893617
+Chino Bandido,1026,296,3.4662162162162162
+Autumn Court Chinese Restaurant,263,80,3.2875
+Flo's Shanghai Cafe,21,9,2.3333333333333335
+Ping Pang Pong,1203,341,3.527859237536657
+P F Chang's China Bistro,333,103,3.233009708737864
+Pei Wei Asian Market,155,54,2.8703703703703702
+Pei Wei Asian Diner,154,43,3.5813953488372094
+P F Chang's China Bistro,264,83,3.180722891566265
+Thai Vegas,78,23,3.391304347826087
+Asian Kitchen,107,35,3.057142857142857
+Monterey Room,11,4,2.75
+Thai Basil,233,70,3.3285714285714287
+Noodle Palace,182,51,3.5686274509803924
+China Grill,404,117,3.452991452991453
+Satay Thai Bistro & Bar,973,239,4.071129707112971
+Asian Seafood Buffet,21,10,2.1
+Chen & Wok,202,62,3.2580645161290325
+Siu Wok,271,72,3.763888888888889
+Harbor Palace,348,148,2.3513513513513513
+Golden Phoenix Chinese Cuisine,108,35,3.085714285714286
+Sun Asian Kitchen,289,81,3.567901234567901
+Red Dragon Express,49,23,2.130434782608696
+Capital Seafood Restaurant,155,44,3.522727272727273
+Pei Wei Asian Diner,135,38,3.5526315789473686
+P F Chang's China Bistro,117,38,3.0789473684210527
+Shanghai Lilly,96,33,2.909090909090909
+New Shanghai Restaurant,51,21,2.4285714285714284
+Lanai Express,90,31,2.903225806451613
+Chinoise,7,3,2.3333333333333335
+Noodle Shop,450,201,2.2388059701492535
+Crazy Buffet,252,83,3.036144578313253
+Wahsun Chinese Restaurant,218,58,3.7586206896551726
+China Inn,6,3,2.0
+Canton Dragon,120,35,3.4285714285714284
+New China Buffet,19,8,2.375
+Phoenix Palace,582,158,3.6835443037974684
+Chen's Chinese Restaurant,55,21,2.619047619047619
+Panda Express,33,10,3.3
+China Olive,12,5,2.4
+Good China Restaurant,92,26,3.5384615384615383
+Jade Palace,30,7,4.285714285714286
+Pei Wei Asian Diner,157,43,3.6511627906976742
+Pick Up Stix,43,16,2.6875
+Ginger China Bistro,138,36,3.8333333333333335
+China Buffet,67,23,2.9130434782608696
+Panda Express,17,6,2.8333333333333335
+Panda Express,25,11,2.272727272727273
+Pei Wok,43,14,3.0714285714285716
+Panda Express,16,4,4.0
+Panda Express,12,3,4.0
+Panda Express,4,2,2.0
+Panda Express,4,4,1.0
+Nee House Chinese Restaurant,405,112,3.6160714285714284
+Ping's Cafe,37,10,3.7
+Dragon Wok,163,47,3.4680851063829787
+Tasty Joe's,120,34,3.5294117647058822
+Pei Wei Asian Diner,212,68,3.1176470588235294
+New Wok Chinese Food,24,8,3.0
+Banana Leaf Asia Bistro,34,14,2.4285714285714284
+Panda Express,5,3,1.6666666666666667
+Phoenix Palace,23,8,2.875
+Panda Express,15,8,1.875
+Asian Cafe Express,889,205,4.336585365853659
+Panda Express,28,9,3.111111111111111
+Jong Wah Chinese Restaurant,37,11,3.3636363636363638
+Hong Kong Kitchen,46,13,3.5384615384615383
+Iron Chef,238,56,4.25
+Asia Lee Chinese Restaurant,89,31,2.870967741935484
+China Buffet,33,11,3.0
+Panda Express,35,11,3.1818181818181817
+Tasty Asian Kitchen,85,27,3.1481481481481484
+Panda Express,10,3,3.3333333333333335
+Panda Express,28,7,4.0
+Great Dragon Restaurant,31,11,2.8181818181818183
+Chen & Wok,113,39,2.8974358974358974
+Great Wall Chinese Restaurant,202,50,4.04
+Yen Ching,56,16,3.5
+Peter Wong Chinese Restaurant,28,9,3.111111111111111
+Pei Wei Asian Diner,181,53,3.4150943396226414
+Flo's,616,171,3.6023391812865495
+Panda Express,7,4,1.75
+Great China Super Buffet,30,9,3.3333333333333335
+The Wok Express,87,20,4.35
+Panda Express,12,4,3.0
+Panda Express,11,3,3.6666666666666665
+China A Go Go,89,28,3.1785714285714284
+Hue Thai,679,201,3.3781094527363185
+Panda Express,13,4,3.25
+Panda Express,4,3,1.3333333333333333
+Panda Express,24,8,3.0
+Champion Gourmet,46,12,3.8333333333333335
+Asian Express,16,5,3.2
+China A Go Go,75,24,3.125
+Panda Express,30,7,4.285714285714286
+Pho Hoang,16,9,1.7777777777777777
+Panda Express,13,3,4.333333333333333
+China Joy,67,26,2.576923076923077
+Panda Express,27,7,3.857142857142857
+China Kitchen,36,10,3.6
+Kan's Kitchen,39,10,3.9
+P F Chang's China Bistro,320,99,3.2323232323232323
+Yummy Grill Sushi,184,54,3.4074074074074074
+Little Dumpling,79,27,2.925925925925926
+China Star,44,17,2.588235294117647
+Panda Express,1,1,1.0
+Pendas Buffet,5,2,2.5
+Panda Express,17,6,2.8333333333333335
+Grand China,50,15,3.3333333333333335
+China Joe's,42,18,2.3333333333333335
+Baidu China Bistro,183,53,3.452830188679245
+Panda Express,104,36,2.888888888888889
+New China Cuisine,141,39,3.6153846153846154
+Lotus Garden Cuisine,61,16,3.8125
+China Ginger,78,29,2.689655172413793
+Empress Court,61,19,3.210526315789474
+Pei Wei Asian Diner,337,96,3.5104166666666665
+Hyakumi Japanese Restaurant & Sushi Bar,9,3,3.0
+Ta Ta Bistro,339,90,3.7666666666666666
+China Palace,12,3,4.0
+Fin,266,81,3.2839506172839505
+Yummy Grill & Sushi,173,51,3.392156862745098
+Ming's Table,92,37,2.4864864864864864
+Pei Wei Asian Diner,239,78,3.0641025641025643
+Little Macau,97,30,3.2333333333333334
+A8 China,35,14,2.5
+China Grill,152,41,3.707317073170732
+China Chan Restaurant,141,38,3.710526315789474
+888 Noodle Bar,72,24,3.0
+Flo's Hong Kong Food Market,5,2,2.5
+Panda Express,43,14,3.0714285714285716
+Pearl,390,106,3.6792452830188678
+China A GoGo,146,46,3.1739130434782608
+J & J Szechuan Cuisine,82,21,3.9047619047619047
+Yunnan Garden,598,157,3.8089171974522293
+Shanghai Club,25,7,3.5714285714285716
+Imperial Asian Buffet,7,4,1.75
+Golden Wei,63,21,3.0
+Lucky Star Chinese & Japanese Buffet,24,14,1.7142857142857142
+Jade At the Palazzo,25,8,3.125
+Hong Kong Express,57,18,3.1666666666666665
+Big Buddha,452,117,3.8632478632478633
+Red House,230,63,3.6507936507936507
+Stir Fry Paradise,108,28,3.857142857142857
+Little Dumpling Chinese & Thai Cuisine,159,52,3.0576923076923075
+SUSHISAMBA Las Vegas,4068,1037,3.922854387656702
+China Spice,85,31,2.7419354838709675
+Ling & Louie's Asian Bar and Grill,456,122,3.737704918032787
+China Mama Restaurant,619,170,3.6411764705882352
+Panda Express,13,7,1.8571428571428572
+P F Chang's China Bistro,162,49,3.306122448979592
+Zushi Japanese Bistro,198,62,3.193548387096774
+Studio Wok,8,3,2.6666666666666665
+Rice n Noodle,394,106,3.7169811320754715
+Yummy Buffet,5,4,1.25
+Yan's,110,36,3.0555555555555554
+Hope Kee,76,23,3.3043478260869565
+Bobo China,259,64,4.046875
+Cook On Wok,28,9,3.111111111111111
+Wok N' Roll,55,16,3.4375
+Dong Phuong Saigon Bowl,85,27,3.1481481481481484
+Beijing Chinese Cuisine,132,33,4.0
+Chef Chiang,121,32,3.78125
+Hot Wok Mr Cook,145,42,3.4523809523809526
+Orient Sushi Grill,279,74,3.77027027027027
+Krazy Buffet,400,117,3.4188034188034186
+P F Chang's China Bistro,244,73,3.3424657534246576
+China Max,20,7,2.857142857142857
+Dragon Wok,48,17,2.823529411764706
+Lillie's Asian Cuisine,150,44,3.409090909090909
+Golden China,45,14,3.2142857142857144
+Zine Noodles Dim Sum,538,185,2.908108108108108
+China Star Buffet,14,5,2.8
+China Legend,14,4,3.5
+King Tin Restaurant,41,15,2.7333333333333334
+Hong Kong Seafood Restaurant,15,4,3.75
+Mikey's Eatery,46,16,2.875
+Mandarin Restaurant,43,12,3.5833333333333335
+Mr Panino,10,4,2.5
+Bubble Tease Resto Bar Cafe,11,4,2.75
+King's Buffet,23,6,3.8333333333333335
+China Garden Restaurant,31,8,3.875
+Crystal Palace Restaurant,26,8,3.25
+Ming's Chinese Restaurant,11,3,3.6666666666666665
+Jia Jia Lok Chinese Restaurant,14,4,3.5
+Chop Chop Chinese Kitchen,45,13,3.4615384615384617
+Mah Jong,62,18,3.4444444444444446
+Happy Food,25,8,3.125
+China Star Super Buffet,36,12,3.0
+Jumbo Buffet,73,26,2.8076923076923075
+Grand China,15,4,3.75
+Hong Kong Bistro,98,25,3.92
+Mandarin Express,23,7,3.2857142857142856
+Chop Chop Chinese Kitchen,8,2,4.0
+Pei Wei Asian Diner,123,38,3.236842105263158
+Ocean Buffet,51,17,3.0
+Pan Asia Sushi Chinese Fusion,296,94,3.148936170212766
+Big Wa,15,5,3.0
+China Buffet,18,5,3.6
+Sun Chinese Dining,108,30,3.6
+Pho Chandler,606,145,4.179310344827586
+China China,2,1,2.0
+No 1 Chinese,12,6,2.0
+Peach Garden Chinese Restaurant,9,3,3.0
+The Golden Dragon,13,5,2.6
+Wok & Wine,24,6,4.0
+Dragon Way,28,9,3.111111111111111
+Capital Chinese Take Away,22,5,4.4
+Jimmy Chung's,43,15,2.8666666666666667
+Kweilin Restaurant,23,6,3.8333333333333335
+Saigon Saigon,69,19,3.6315789473684212
+Ping On Chinese Restaurant,12,4,3.0
+China Palace,9,3,3.0
+Loon Fung,27,9,3.0
+Izzi Restaurant,7,2,3.5
+Rainbow Arch Restaurant,11,3,3.6666666666666665
+Chop Chop,94,27,3.4814814814814814
+Lune Town Cantonese Restaurant,4,1,4.0
+Wongs,6,2,3.0
+Good Year Chinese Restaurant,15,4,3.75
+I-Ching,10,4,2.5
+Chi Wai Chinese Restaurant,9,2,4.5
+New Lee On,6,2,3.0
+Kwok Brasserie,17,4,4.25
+Pine Garden Chinese Restaurant,8,4,2.0
+Wing Sing Inn,19,5,3.8
+G Y Chinese Take Away,12,4,3.0
+Ricebox Take Away Food Shops,6,4,1.5
+Royal Dynasty,1,1,1.0
+Silver Bowl,31,8,3.875
+Kampong Ah Lee,73,19,3.8421052631578947
+Chinese Manor House,12,4,3.0
+Panda Express,19,7,2.7142857142857144
+J & K Gourmet,228,58,3.9310344827586206
+Eastern Buffet,16,7,2.2857142857142856
+Wok n Stix,14,6,2.3333333333333335
+China Gourmet,21,8,2.625
+P F Chang's China Bistro,127,38,3.3421052631578947
+Noodle Exchange,264,74,3.5675675675675675
+Forbes KTV Restaurant & Bar,30,8,3.75
+BBQ King,123,45,2.7333333333333334
+Buffet at Asia,198,77,2.5714285714285716
+Great Wok,164,39,4.205128205128205
+Beijing Noodle No. 9,896,339,2.6430678466076696
+Long Life Vege Restaurant,121,29,4.172413793103448
+Fusion Sushi & China Bistro,122,32,3.8125
+Best Wok Buffet,29,12,2.4166666666666665
+Grand Buffet,18,7,2.5714285714285716
+World Buffet,186,55,3.381818181818182
+Li's Bowl,254,63,4.031746031746032
+Beijing Restaurant,315,83,3.7951807228915664
+Great Wall,80,31,2.5806451612903225
+Ports O Call Buffet,239,79,3.0253164556962027
+China City Super Buffet,161,50,3.22
+Wok On In,56,18,3.111111111111111
+New China,46,14,3.2857142857142856
+Mr. Beijing,212,56,3.7857142857142856
+Meiwei China Bistro,87,26,3.3461538461538463
+P F Chang's China Bistro,858,241,3.5601659751037342
+King Wok,126,38,3.3157894736842106
+Dong Ting Spring,184,44,4.181818181818182
+Food Express,61,20,3.05
+Lily Bowl Chinese Bistro,14,6,2.3333333333333335
+QQ Asian Buffet,20,10,2.0
+Dragon Express,252,62,4.064516129032258
+Panda Express,26,9,2.888888888888889
+Hot Hot Chinese,23,6,3.8333333333333335
+Panda Express,51,17,3.0
+Chinois China China,11,3,3.6666666666666665
+Anna's Garden,101,28,3.607142857142857
+Panda Express,38,13,2.923076923076923
+Hakkasan Restaurant,492,124,3.967741935483871
+Jacky Chan,156,53,2.943396226415094
+Panda Express,7,3,2.3333333333333335
+Shanghai Grill,116,30,3.8666666666666667
+Panda Express,28,10,2.8
+HK Star,443,126,3.515873015873016
+China One,189,53,3.5660377358490565
+Tang's Asian Bistro,35,10,3.5
+Jade House,134,42,3.1904761904761907
+Fugu,327,86,3.802325581395349
+Eastern Super Buffet,77,22,3.5
+Wong's Jr,184,51,3.607843137254902
+Xo Chinese Food,167,54,3.0925925925925926
+Blossom Asian Cuisine,156,39,4.0
+Pei Wei Asian Diner,102,28,3.642857142857143
+Ginseng 3,272,98,2.7755102040816326
+Panda Express,7,3,2.3333333333333335
+Xanadu Chinese Restaurant,4,1,4.0
+Jumbo Super Buffet,90,36,2.5
+Cafe China,122,30,4.066666666666666
+China Chef,128,32,4.0
+New China Super Buffet,107,37,2.891891891891892
+My Corner Chinese Restaurant,32,12,2.6666666666666665
+China A GoGo,81,20,4.05
+Panda Express,9,5,1.8
+Cafe Ga Hyang,364,89,4.089887640449438
+Ling and Louie's Asian Bar and Grill,141,40,3.525
+Wendy's Noodle Cafe,1082,270,4.007407407407407
+Panda Express,14,5,2.8
+Shanghai Buffet,187,57,3.280701754385965
+Tottie's Asian Fusion,453,113,4.008849557522124
+Hong Kong Kitchen II,103,25,4.12
+Tom's Red Pepper,87,25,3.48
+Orient Express,30,10,3.0
+Ruby Oriental Restaurant,18,6,3.0
+China Kitchen,5,2,2.5
+Golden Harvest,101,26,3.8846153846153846
+Great China,14,5,2.8
+Great China Super Buffet,44,16,2.75
+Ninja Bowl,34,9,3.7777777777777777
+Tasty House Chinese Restaurant,85,30,2.8333333333333335
+North China Restaurtant,10,3,3.3333333333333335
+Blossom,362,90,4.022222222222222
+Wasabi Jane's Rice & Noodle Works,30,11,2.727272727272727
+China Garden,51,14,3.642857142857143
+Jen Buffet,68,17,4.0
+New York Chinese Restaurant,173,51,3.392156862745098
+Leung Yue Hot Pot,16,4,4.0
+Pumi Express,99,35,2.8285714285714287
+Lee's Garden,58,20,2.9
+New China Super Buffet,8,5,1.6
+Rose Garden Chinese Restaurant,19,7,2.7142857142857144
+Panda Express,23,10,2.3
+Yum Yum China,51,18,2.8333333333333335
+Hula Hawaiian Barbeque,21,7,3.0
+Panda Express,21,8,2.625
+Asian Cafe,102,25,4.08
+Panda Express,13,5,2.6
+J Chen,82,26,3.1538461538461537
+Panda Express,18,6,3.0
+Hot Wok Chinese Restaurant,87,28,3.107142857142857
+South China Express,3,3,1.0
+China 1,23,6,3.8333333333333335
+Chens Chinese Bistro,64,17,3.764705882352941
+Panda Express,25,10,2.5
+Panda Express,27,9,3.0
+Great Wall Chinese Restaurant,72,17,4.235294117647059
+Panda Express,11,4,2.75
+Panda Express,19,7,2.7142857142857144
+Panda Express,12,4,3.0
+Panda Express,5,2,2.5
+Golden Gate Chinese Restaurant,57,16,3.5625
+New York Chinese Restaurant,171,52,3.2884615384615383
+Dragon Bowl,16,4,4.0
+Panda Express,25,7,3.5714285714285716
+Panda Express,24,7,3.4285714285714284
+Panda Express,5,3,1.6666666666666667
+Panda Express,16,5,3.2
+Grand China,142,41,3.4634146341463414
+Pacific Buffet,23,9,2.5555555555555554
+China One,249,70,3.557142857142857
+Panda Express,17,5,3.4
+China Wok,41,13,3.1538461538461537
+Panda Express,38,13,2.923076923076923
+Ichiban,23,8,2.875
+1 Eastern Super Buffet,101,29,3.4827586206896552
+Garden of the Dragon,34,9,3.7777777777777777
+Hsin Cafe,111,31,3.5806451612903225
+Zen Buffet,29,10,2.9
+QQ Express,38,13,2.923076923076923
+Jimmy Chung's,28,11,2.5454545454545454
+Red Dragon Chinese and Mexican Food,15,4,3.75
+Happiness,22,7,3.142857142857143
+Little Dumpling Thai & Chinese Cuisine,53,19,2.789473684210526
+Yum Yum HK Diner,29,8,3.625
+New York Wok,94,28,3.357142857142857
+Moon China,88,26,3.3846153846153846
+Meadowood Cafe,9,3,3.0
+Chen's Chinese Bistro,72,18,4.0
+Delicious & Best Chinese Food,16,6,2.6666666666666665
+Cameron Chinese Seafood Restaurant,51,12,4.25
+Jasmine,3,1,3.0
+Karen Wong Chinese Restaurant,50,13,3.8461538461538463
+Chinese Good Food Take-Away,4,3,1.3333333333333333
+Karen's Unicorn,43,11,3.909090909090909
+Chang's Chinese Buffet,88,24,3.6666666666666665
+Noodle & Rice,347,86,4.034883720930233
+iKitchen,71,20,3.55
+China Magic Noodle House,875,218,4.013761467889908
+Rice Garden,27,7,3.857142857142857
+Golden City Chinese Restruant,17,5,3.4
+Silver Bowl,25,6,4.166666666666667
+Panda Express,49,17,2.8823529411764706
+101 Asian Buffet,114,37,3.081081081081081
+Chinatown,7,2,3.5
+New Garden Grove,22,5,4.4
+J & M Chinese Cuisine Restaurant,103,28,3.6785714285714284
+Panda King's Buffet,42,15,2.8
+Segal's Oasis Grill,17,5,3.4
+Yummy Yummy Chinese Restaurant,174,60,2.9
+AJK Chinese Cuisine,58,18,3.2222222222222223
+Yummy Yummy,9,3,3.0
+Summerhall Kitchen,13,5,2.6
+China A Go Go,111,29,3.8275862068965516
+HK Seafood Garden,155,40,3.875
+China Star,3,1,3.0
+Tai's Asian Bistro,138,38,3.6315789473684212
+China Rice,64,18,3.5555555555555554
+Dragon Island Chinese Restaurant,74,17,4.352941176470588
+Xiang Bala Hot Pot,16,4,4.0
+Jade Fine Chinese Dining,24,9,2.6666666666666665
+WaWa Noodle Bar,15,4,3.75
+Karen's Unicorn,39,8,4.875
+The Rendezvous,15,5,3.0
+House of Mei,91,20,4.55
+Miso & Sushi,17,6,2.8333333333333335
+Thai Style Noodle House 2,583,146,3.993150684931507
+Yummy House,17,9,1.8888888888888888
+Teriwoki,12,4,3.0
+Yi Mei Champion Taiwan Deli,381,109,3.4954128440366974
+Shan Dong Chinese Restaurant,24,7,3.4285714285714284
+Lai Lai Restaurant,16,4,4.0
+Asian BBQ & Noodles,896,216,4.148148148148148
+Mekong Palace,291,81,3.5925925925925926
+U & Me Cafe,26,7,3.7142857142857144
+Golden China Chinese Cuisine,133,37,3.5945945945945947
+Royal Buffet,14,4,3.5
+Orient House,215,57,3.7719298245614037
+Jimmy Woo's,223,76,2.9342105263157894
+South China BBQ Hong Kong Style,37,11,3.3636363636363638
+Spicy City,113,39,2.8974358974358974
+Volcano Buffet,135,43,3.13953488372093
+Hong Kong Asian Diner,74,20,3.7
+Sunshine Moon Peking Pub,110,31,3.5483870967741935
+China City Super Buffet,85,31,2.7419354838709675
+Gold Chef,171,47,3.6382978723404253
+Noodle Pot,481,129,3.7286821705426356
+Otaku,337,93,3.6236559139784945
+Tien Wong Hot Pot,262,68,3.8529411764705883
+China Poblano,2032,670,3.032835820895522
+Dragon House,64,19,3.3684210526315788
+Wang's Delight,68,21,3.238095238095238
+Three Villages Restaurant,198,51,3.8823529411764706
+Hibachi Grill & Supreme Buffet,85,24,3.5416666666666665
+Oriental Jade,37,15,2.466666666666667
+P F Chang's China Bistro,114,35,3.257142857142857
+Las Vegas Chinatown Plaza,92,26,3.5384615384615383
+Asian Island,262,66,3.9696969696969697
+Umami Ramen & Dumpling Bar,509,141,3.6099290780141846
+Lotus Chinese Restaurant & Lounge,11,3,3.6666666666666665
+Ichiban Sichuan,367,94,3.904255319148936
+China A Go Go,115,34,3.3823529411764706
+Hong Fu Noodle,13,4,3.25
+8 fortune Chinese cuisine,99,25,3.96
+SN Pacific Rim Asian Kitchen,80,20,4.0
+Tasty Home Kitchen,13,3,4.333333333333333
+E-Z Buffet,54,24,2.25
+Chou's Kitchen,520,128,4.0625
+Hibachi Grill & Supreme Buffet,119,36,3.3055555555555554
+Pan Asian,1525,356,4.283707865168539
+Jugoo Chinese Restaurant,129,35,3.6857142857142855
+Imperial Palace,39,10,3.9
+Big Wong Restaurant,1182,297,3.9797979797979797
+Red Wok Buffet,121,38,3.1842105263157894
+China Red Cafe,160,42,3.8095238095238093
+China One,158,38,4.157894736842105
+Dragon Buffet,18,11,1.6363636363636365
+Asian House,20,7,2.857142857142857
+Food Express Chinese Restaurant,13,4,3.25
+Shangri-La Chinese Cuisine,140,38,3.6842105263157894
+Iron Chef,404,110,3.672727272727273
+China Tango,230,55,4.181818181818182
+Chop Chop Leith,46,13,3.5384615384615383
+New King Wah Chinese Buffet,19,8,2.375
+China Gourmet,98,23,4.260869565217392
+Beijing Noodle Cafe,690,167,4.131736526946108
+BaBa's Chinese Kitchen,32,11,2.909090909090909
+DumplingHaus,291,78,3.730769230769231
+China Garden,79,25,3.16
+Rice Garden,14,4,3.5
+Bangkok 9,36,14,2.5714285714285716
+Great Bao,476,108,4.407407407407407
+Rice & Company,443,142,3.119718309859155
+Island Malaysian Cuisine Halal,359,86,4.174418604651163
+Green Tea Chinese And Japanese Cuisine,41,16,2.5625
+Long Jin Chinese Cuisine,226,56,4.035714285714286
+Panda Express,44,13,3.3846153846153846
+East Ocean Dim Sum & Seafood Restaurant,448,144,3.111111111111111
+Cathay House,41,18,2.2777777777777777
+China Tango Bistro,160,51,3.1372549019607843
+Lucky Kitchen,118,36,3.2777777777777777
+Noodle Express,15,3,5.0
+China Star,27,9,3.0
+China a Go Go,198,49,4.040816326530612
+China City Super Buffet,93,31,3.0
+Szechwan Garden,202,51,3.9607843137254903
+Dao Kitchen Asian Bistro,151,39,3.871794871794872
+J's Noodle,6,4,1.5
+Yan's Chinese Food #2,154,37,4.162162162162162
+Panda Express,45,13,3.4615384615384617
+Chef Ben Sushi & Asian Express,89,25,3.56
+Da Sheng Chinese Cuisine,74,19,3.8947368421052633
+Xing Asian Bistro,36,11,3.272727272727273
+Kung Fu Chef,69,19,3.6315789473684212
+Szechuan,19,6,3.1666666666666665
+China A Go Go,30,11,2.727272727272727
+China A Go Go,82,23,3.5652173913043477
+Newhaven Express Chinese,16,4,4.0
+Hunan Jiu Jia,70,20,3.5
+Go Go China Bistro,31,9,3.4444444444444446
+King Wong Chinese Food,203,47,4.319148936170213
+China Roll,39,11,3.5454545454545454
+Harbor Palace Seafood Restaurant,77,35,2.2
+Hong Kong Garden Seafood & BBQ Cafe,206,56,3.6785714285714284
+Tsing Tao Chinese Cuisine,77,24,3.2083333333333335
+Yummy Buffet,62,19,3.263157894736842
+MB China,29,6,4.833333333333333
+Sogo Cuisine,20,4,5.0
+Chen's Oriental Cuisine,48,14,3.4285714285714284
+Szechuan Cuisine,73,17,4.294117647058823
+Asian Garden,44,12,3.6666666666666665
+Booming Spot Mini Pot,363,91,3.989010989010989
+Empire Bistro,106,32,3.3125
+China City Super Buffet,33,11,3.0
+Cool Jade Chinese Restaurant,28,6,4.666666666666667
+Mango King,14,3,4.666666666666667
+Panda Express,28,9,3.111111111111111
+Foods 2 Go,4,2,2.0
+New Asian Star,193,47,4.1063829787234045
+Noodle ChaCha,204,62,3.2903225806451615
+Tasty Station,32,9,3.5555555555555554
+Szechwan Palace,138,34,4.0588235294117645
+Waterloo Star,34,9,3.7777777777777777
+Veggie House,1040,233,4.463519313304721
+Stack Dim Sum Bar,69,16,4.3125
+Nanyang Malaysian Restaurant,26,7,3.7142857142857144
+China One,50,16,3.125
+Deer Garden Signature,64,19,3.3684210526315788
+International House of Food,76,17,4.470588235294118
+Ah So,20,5,4.0
+Panda Express,14,7,2.0
+Tea Garden,4,1,4.0
+Pei Wei Asian Diner,139,43,3.2325581395348837
+Tasty China,56,15,3.7333333333333334
+New Asia Fast Food,19,7,2.7142857142857144
+Big Heng,42,10,4.2
+Exclamation,16,4,4.0
+Sai Wan Bistro,42,12,3.5
+Jumbo Dragon,9,3,3.0
+Lin's Golden Chinese Restaurant,40,9,4.444444444444445
+Oriental Buffet Grill & Sushi,79,22,3.590909090909091
+Pacific Gardens,191,46,4.1521739130434785
+Big Wa Chinese,38,11,3.4545454545454546
+Chen's Chinese Bistro,181,45,4.022222222222222
+Happy Valley's Congee & Bar,13,3,4.333333333333333
+Ling and Louie's Kitchen,133,45,2.9555555555555557
+Panda Express,14,5,2.8
+Snoh Ice Shavery,877,195,4.4974358974358974
+Bund Shanghai,178,49,3.63265306122449
+China Gourmet,167,42,3.9761904761904763
+Shaanxi Gourmet,92,27,3.4074074074074074
+Panda Express,42,15,2.8
+Hong Kong Chinese Cuisine,44,12,3.6666666666666665
+Pacific Moon Chinese Cuisine,80,24,3.3333333333333335
+Fat Choy,780,194,4.020618556701031
+New York Chinese Restaurant,188,52,3.6153846153846154
+Waterloo Sogo Restaurant,38,10,3.8
+Hao Bao,124,28,4.428571428571429
+Qwik Chinese Bistro,134,34,3.9411764705882355
+Fu Restaurant,161,42,3.8333333333333335
+U-Like World Buffet,50,24,2.0833333333333335
+Kong  Fu Gyoza,55,12,4.583333333333333
+Beijing Garden Chinese,59,22,2.6818181818181817
+China Jade,180,47,3.8297872340425534
+Miu's Cuisine,330,85,3.8823529411764706
+Lotus Garden,144,30,4.8
+Chop and Wok,192,58,3.310344827586207
+Simi's Cafe,418,92,4.543478260869565
+Hot Wheels,10,3,3.3333333333333335
+Stir Krazy Mongolian Grill,263,58,4.5344827586206895
+Hong Kong Kitchen 3,67,15,4.466666666666667
+Ann's Asian Bistro & Bar,115,30,3.8333333333333335
+Max Asia Cafe,110,27,4.074074074074074
+Chopstix 2,42,12,3.5
+Hao,51,14,3.642857142857143
+China Max,6,2,3.0
+The Little Kitchen Cafe,54,16,3.375
+1900 Asian Cuisine,185,58,3.189655172413793
+Dragon Chinese Restaurant,68,16,4.25
+Liu's Kitchen,133,36,3.6944444444444446
+The Little Kitchen Cafe,71,18,3.9444444444444446
+Beijing Banquet,9,2,4.5
+George and Sons,239,53,4.509433962264151
+Kung Fu Gyoza,8,2,4.0
+China Jade,77,26,2.9615384615384617
+Inchin Bamboo Garden,149,42,3.5476190476190474
+Pick Up Stixs,7,6,1.1666666666666667
+Mr. Bejing,14,3,4.666666666666667
+Winter In July - A Pop-Up Lunch with Yonaka and Snow Shavery,35,7,5.0
+Fortunes,18,9,2.0
+Sakina Thai Cuisine,140,30,4.666666666666667
+Wok Up,87,23,3.782608695652174
+The Original Las Vegas Buffet,109,35,3.1142857142857143
+Vogue Restaurant & Bar,12,4,3.0
+Henry's Taiwan Kitchen,284,80,3.55
+AJK Chinese Cusine,15,3,5.0
+Dim Sum Cafe,150,44,3.409090909090909
+Hot Wheels Tea House,25,6,4.166666666666667
+Hong Kong Asian Cuisine,56,17,3.2941176470588234
+China One,63,16,3.9375
+Oasis Asian Kitchen,29,6,4.833333333333333
+Grace Garden,36,9,4.0
+Viet Bistro,88,28,3.142857142857143
+Pei Wei Asian Diner,15,4,3.75
+Panda Express,12,7,1.7142857142857142
+Double 10,103,23,4.478260869565218
+World Noodle,119,33,3.606060606060606
+Red Mansion,60,17,3.5294117647058822
+The Clever Koi,483,124,3.8951612903225805
+8 Fortune Cusine,13,4,3.25
+Dumpling And Noodle house,17,6,2.8333333333333335
+China a Go Go,121,31,3.903225806451613
+Jade Star,13,3,4.333333333333333
+Lin Buffet,14,9,1.5555555555555556
+China Wan Wan,108,28,3.857142857142857
+Fat Dumpling,173,50,3.46
+Hunan Garden,15,5,3.0
+Pan Asian Express,11,6,1.8333333333333333
+Buffet At Asia,8,5,1.6
+Magic Wok,21,5,4.2
+Vid Noodles,36,8,4.5
+Taste Of China & Icy Bar,44,10,4.4
+Hong Kong Station,50,13,3.8461538461538463
+Gata Thai Cuisine,103,24,4.291666666666667
+Super No1 Chinese Restaurant,28,8,3.5
+Grace and Healthy Premium Dumplings,51,12,4.25
+Henry's Private Kitchen,22,6,3.6666666666666665
+China Bistro,55,13,4.230769230769231
+Beijing Express,42,11,3.8181818181818183
+Sunny World,13,4,3.25
+Li's Asian,33,10,3.3
+Joe's Kitchen,19,4,4.75
+VIP,69,16,4.3125
+Silver Dragon Chinese Restaurant,20,6,3.3333333333333335
+A & K Chinese Restaurant,16,4,4.0
+Dumpling King,20,5,4.0
+World Buffet,11,4,2.75
+Oriental House,76,17,4.470588235294118
+Szechuan Express,11,3,3.6666666666666665

@@ -1,5 +1,6 @@
 from gensim.models import Word2Vec
 import os
+import time
 
 class MySentence(object):
 
@@ -10,7 +11,7 @@ class MySentence(object):
         count = 0
         for line in open(self.dirname, 'r'):
             count += 1
-            print(count)
+            print(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()), count)
             sentences = line.split('&#160;')
             for sentence in sentences:
                 #print(sentence)

@@ -1,6 +1,7 @@
 from gensim.models import Word2Vec
 import os
 import time
+import sys
 
 class MySentence(object):
 
@@ -17,11 +18,14 @@ class MySentence(object):
                 #print(sentence)
                 print('.', end='')
                 yield sentence.split()
+            print(" ")
 
-def train():
+def train(size):
+    print(size)
     sentences = MySentence(os.sep.join(['.', 'Task6', 'Cache', 'hygiene.dat']))
-    model = Word2Vec(sentences, min_count=10, size=100)
-    model.save(os.sep.join(['.', 'Task6', 'Cache', 'model.model']))
+    model = Word2Vec(sentences, min_count=10, size=size)
+    model.save(os.sep.join(['.', 'Task6', 'Cache', 'model_'+str(size)+'.model']))
 
 if __name__ == "__main__":
-    train()
+    size = (int)(sys.argv[1])
+    train(size)

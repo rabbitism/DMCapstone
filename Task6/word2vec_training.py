@@ -7,10 +7,14 @@ class MySentence(object):
         self.dirname = dirname
 
     def __iter__(self):
+        count = 0
         for line in open(self.dirname, 'r'):
+            count += 1
+            print(count)
             sentences = line.split('&#160;')
             for sentence in sentences:
-                print(sentence)
+                #print(sentence)
+                print('.', end='')
                 yield sentence.split()
 
 def train():

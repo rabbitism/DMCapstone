@@ -28,4 +28,6 @@ def train(size):
 
 if __name__ == "__main__":
     size = (int)(sys.argv[1])
-    train(size)
+    #train(size)
+    model = Word2Vec.load(os.sep.join(['.', 'Task6', 'Cache', 'model_' + str(size) + '.model']))
+    print(model['chines'])

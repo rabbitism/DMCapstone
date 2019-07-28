@@ -22,7 +22,7 @@ def main():
         #print(labels)
         length = len(labels)
         """"""
-        for i in range(length - 1):
+        for i in range(length):
             print(i, labels[i])
             if (labels[i][0] in ["0", "1"]):
                 with open(train_review_dir, 'a') as train_review_f, open(train_label_dir, 'a') as train_label_f, open(train_data_dir, 'a') as train_data_f:

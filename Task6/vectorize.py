@@ -57,18 +57,21 @@ def vectorize_sentence(model, sentence: str, size: int):
     
     
 if __name__ == "__main__":
-    size = 10
+    size = 100
     model_dir = os.sep.join(['.', 'Task6', 'Cache', 'model_'+str(size)+'.model'])
     model = Word2Vec.load(model_dir)
-    vectorize_reviews(model, s, size)
+    #vectorize_reviews(model, s, size)
     review_dir = os.sep.join(['.', 'Task6', 'Cache', 'hygiene.dat.test'])
     target_dir = os.sep.join(['.', 'Task6', 'Arrays', str(size)+'_test.npy'])
     result = []
     with open(review_dir, 'r') as review_f:
         reviews = review_f.readlines()
+        print(len(reviews))
+        
         for i in range(len(reviews)):
             print(i)
             image = vectorize_reviews(model, reviews[i], size)
             result.append(image)
+        
     result = np.array(result)
     np.save(target_dir, result)

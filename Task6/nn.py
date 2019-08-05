@@ -8,7 +8,7 @@ import random
 
 
 ##############
-size = 100
+size = 20
 ##############
 
 torch.manual_seed(1)
@@ -17,8 +17,8 @@ EPOCH = 2
 BATCH_SIZE = 100
 LR = 0.001
 
-training_dir = os.sep.join(['.', 'Task6', 'Arrays', str(size) + '_train.npy'])
-testing_dir = os.sep.join(['.', 'Task6', 'Arrays', str(size) + '_test.npy'])
+training_dir = os.sep.join(['.', 'Task6', 'Arrays', 'image', str(size) + '_train.npy'])
+testing_dir = os.sep.join(['.', 'Task6', 'Arrays', 'image', str(size) + '_test.npy'])
 training_label_dir = os.sep.join(['.', 'Task6', 'Cache', 'hygiene.dat.labels.train'])
 
 class ReviewData(Data.Dataset):
@@ -76,20 +76,22 @@ class CNN(nn.Module):
         return output
 
 cnn = CNN()
-#print(cnn)
+print(cnn)
 
 optimizer = torch.optim.Adam(cnn.parameters(), lr=LR)
 loss_func = nn.CrossEntropyLoss()
-
-for step, (b_x, b_y) in enumerate(train_loader):
-    #print(step, b_x, b_y)
-    #b_x = torch.tensor(b_x, dtype=torch.float32)
-    output = cnn(b_x)
-    loss = loss_func(output, b_y)
-    optimizer.zero_grad()
-    loss.backward()
-    optimizer.step()
-
+"""
+for i in range(100):
+    print(i)
+    for step, (b_x, b_y) in enumerate(train_loader):
+        #print(step, b_x, b_y)
+        #b_x = torch.tensor(b_x, dtype=torch.float32)
+        output = cnn(b_x)
+        loss = loss_func(output, b_y)
+        optimizer.zero_grad()
+        loss.backward()
+        optimizer.step()
+"""
 """
 count  = 0
 for i in range(100):
@@ -106,7 +108,7 @@ print(count/100)
 """
 test_data = np.load(testing_dir)
 print(len(test_data))
-with open('./Task6/Results/'+str(size)+'_result.txt', 'a') as f:
+with open('./Task6/Results/'+str(size)+'epoch_result.txt', 'a') as f:
     f.write('Bunni'+'\n')
     for data in test_data:
         data = torch.tensor([[data]], dtype=torch.float32)
@@ -118,7 +120,7 @@ with open('./Task6/Results/'+str(size)+'_result.txt', 'a') as f:
     f.close()
 """
 
-""""""
+"""
 with open('./Task6/Cache/'+str(size)+'_nn_array_train.txt', 'a') as f:
     f.write('Bunni'+'\n')
     for data, label in total_data:
@@ -147,5 +149,5 @@ with open('./Task6/Cache/'+str(size)+'_nn_array_test.txt', 'a') as f:
             f.write(str(number) + ', ')
         f.write('\n')
     f.close()
-""""""
+"""
 
